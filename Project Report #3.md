@@ -24,20 +24,30 @@ Part 1a.) This map shows us the full area of the Juan De Fuca Plate, with all th
 
 Part 1b.) We cut off any data below 2.5 magnitude to avoid looking at the numerous tiny tremors in the area. The range of the earthquakes goes as high as about 7.8 magnitude. The average earthquake size is about 2.5-3.0 magnitude, the smaller earthquakes are much more common. There are so many on the magnitude v.s. time plot that individual points can no longer be made out.
 
-Part 1c.) The earthquakes in April 2015 are spread along the west and south sides of the Juan De Fuca plate, mostly the divergent and transform boundaries of the plate. There are several points of relatively high magnitude, pointing to some event that occurred that month. After doing some research, I found that in April 2015,
+Part 1c.) The earthquakes in April 2015 are spread along the west and south sides of the Juan De Fuca plate, mostly the divergent and transform boundaries of the plate. There are several points of relatively high magnitude, pointing to some event that occurred that month. After doing some research, I found that in April 2015,the Axial Seamount volcano erupted, causing a massive underwater explosion that set off several seismometers located on the seafloor. This is very likely the cause of the spike in earthquake magnitude.
 
 Part 2a.) The following figure shows a map of the Juan De Fuca Plate. The borders marked in green are transform boundaries, and the ones marked in red are divergent boundaries. Following that, I have marked the major boundaries of each type on our ten year graph of earthquake locations by lining up the maps.
 
 ![](BME450_Project_3_Fig_6.PNG)
 
-![](BME450_Project_3_Fig_4.PNG)
-
 Transform Boundaries
 
-![](BME450_Project_3_Fig_5.PNG)
+![](BME450_Project_3_Fig_4.PNG)
 
 Divergent Boundaries
 
+![](BME450_Project_3_Fig_5.PNG)
+
+Part 2b.) We see on the map that the transform boundaries have the most earthquakes, and also the earthquakes with the highest magnitude. Divergent boundaries have fewer earthquakes, and earthquakes of lower magnitude. This fits with expectations, as transform boundaries tend to have the highest number and most destructive earthquakes.
+
 # Conclusion:
 
+In summary, we found data on earthquake magnitude and location for the last decade as well as specifically April 2015. We plotted magnitude over time, and plotted all earthquake locations on a map of the Juan De Fuca plate area. The scatter glyphs are sized according the magnitude of the earthquake. We then analyzed the data we saw on that map and why it appeared as such, and finally identified the divergent and transform boundaries of the plate and explained the earthquake trends seen there. From this data we can analyze several traits of earthquake trends and why they tend to follow certain characteristics.
+
 # References:
+
+https://earthquake.usgs.gov/earthquakes/map/
+
+https://en.wikipedia.org/wiki/Juan_de_Fuca_Plate
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734
