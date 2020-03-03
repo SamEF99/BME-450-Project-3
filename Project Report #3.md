@@ -28,11 +28,11 @@ Part 1c.) The earthquakes in April 2015 are spread along the west and south side
 
 Part 2a.) The following figure shows a map of the Juan De Fuca Plate. The borders marked in green are transform boundaries, and the ones marked in red are divergent boundaries. Following that, I have marked the major boundaries of each type on our ten year graph of earthquake locations by lining up the maps.
 
-![](BME450_Project_2_Fig_4.PNG)
+![](BME450_Project_3_Fig_4.PNG)
 
-![](BME450_Project_2_Fig_5.PNG)
+![](BME450_Project_3_Fig_5.PNG)
 
-![](BME450_Project_2_Fig_6.PNG)
+![](BME450_Project_3_Fig_6.PNG)
 
 # Conclusion:
 
