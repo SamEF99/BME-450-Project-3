@@ -19,3 +19,21 @@ The code starts by pulling data from Github for the ten year span CSV. We then a
 ![](BME450_Project_3_Fig_3.PNG)
 
 # Questions:
+
+Part 1a.) This map shows us the full area of the Juan De Fuca Plate, with all three types of boundaries. Most of the earthquakes are in this area due to the presence of the plate, which is active at all boundaries, and fills a small area. There are nearly no earthquakes inland, in the ocean, or inside the area of the plate, they are solely focused on the plate boundaries.
+
+Part 1b.) We cut off any data below 2.5 magnitude to avoid looking at the numerous tiny tremors in the area. The range of the earthquakes goes as high as about 7.8 magnitude. The average earthquake size is about 2.5-3.0 magnitude, the smaller earthquakes are much more common. There are so many on the magnitude v.s. time plot that individual points can no longer be made out.
+
+Part 1c.) The earthquakes in April 2015 are spread along the west and south sides of the Juan De Fuca plate, mostly the divergent and transform boundaries of the plate. There are several points of relatively high magnitude, pointing to some event that occurred that month. After doing some research, I found that in April 2015,
+
+Part 2a.) The following figure shows a map of the Juan De Fuca Plate. The borders marked in green are transform boundaries, and the ones marked in red are divergent boundaries. Following that, I have marked the major boundaries of each type on our ten year graph of earthquake locations by lining up the maps.
+
+![](BME450_Project_2_Fig_4.PNG)
+
+![](BME450_Project_2_Fig_5.PNG)
+
+![](BME450_Project_2_Fig_6.PNG)
+
+# Conclusion:
+
+# References:
